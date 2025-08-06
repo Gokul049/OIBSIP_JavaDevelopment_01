@@ -46,7 +46,9 @@ The player is prompted whether they want to play another round or exit.
 Points are awarded based on how quickly the user guesses the number. For example:
 
 Easy Mode (10 attempts)
+
 Attempt	Points
+
 1-100
 
 2-90
