@@ -10,7 +10,9 @@ To design and implement a console-based number guessing game in Java where the u
 🛠️ Technologies Used
 
 Programming Language: Java
-IDE: Any Java-supported IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)
+
+IDE: IntelliJ IDEA
+
 Java Classes Used: Scanner for user input, Random for number generation, ArrayList for storing high scores.
 
 🎮 Game Features:
